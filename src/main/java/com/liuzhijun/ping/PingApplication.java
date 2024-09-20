@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class PingApplication {
 
     public static void main(String[] args) {
-
+        //test
         SpringApplication.run(PingApplication.class, args);
 
     }
